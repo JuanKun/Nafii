@@ -1,0 +1,60 @@
+{
+    "results":[
+        {
+            "name"      : "Masjid Al-Haram",
+            "coordinate": [
+                21.422881,
+                39.825735
+            ]
+        },
+        {
+            "name"      : "Masjid An Nabawi",
+            "coordinate": [
+                24.467207,
+                39.611165
+            ]
+        },
+        {
+            "name"      : "Jamarah Al Kubra",
+            "coordinate": [
+                21.421911,
+                39.871824
+            ]
+        },
+        {
+            "name"      : "Jamarah Al Wusta",
+            "coordinate": [
+                21.420971,
+                39.873422
+            ]
+        },
+        {
+            "name"      : "Jamarah Al Ula",
+            "coordinate": [
+                21.420421,
+                39.874360
+            ]
+        },
+        {
+            "name"      : "Arafat",
+            "coordinate": [
+                21.352943,
+                39.978180
+            ]
+        },
+        {
+            "name"      : "Safa Hill",
+            "coordinate": [
+                21.421881,
+                39.827423
+            ]
+        },
+        {
+            "name"      : "Marwa Hill",
+            "coordinate": [
+                21.425227,
+                39.827276
+            ]
+        }
+    ]
+}
